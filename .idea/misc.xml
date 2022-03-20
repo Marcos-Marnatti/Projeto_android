@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projeto android/app/src/main/res/layout/activity_adicionar_audio.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projeto android/app/src/main/res/layout/activity_audios_favoritos.xml" value="0.3451086956521739" />
+        <entry key="..\:/Projeto android/app/src/main/res/layout/activity_configuracoes.xml" value="0.33" />
+        <entry key="..\:/Projeto android/app/src/main/res/layout/activity_favoritos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projeto android/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projeto android/app/src/main/res/layout/activity_tela_menu.xml" value="0.25" />
+        <entry key="..\:/Projeto android/app/src/main/res/layout/content_favoritos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projeto android/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projeto android/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
